@@ -27,5 +27,3 @@ Apart from computational speed-ups, other applications of quantum computers acti
 1. Quantum Sensing and Metrology, which leverage the extreme sensitivity of qubits to the environment to realize sensing beyond the classical shot-noise limit.
 
 1. Quantum Networks and Communications, which may lead to revolutionary ways of sharing information.
-
-                                                    
