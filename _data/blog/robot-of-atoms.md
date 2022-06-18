@@ -48,9 +48,9 @@ The new artificial atoms having the localized electron states with the same ener
 
 Among different ways of creating artificial atoms, the simplest one is putting electrons into tiny flakes, for example, cutting out a thin layer from a material, ,or chemically producing a single layer structured material with few electrons in its surface orbitals. The newest and most exciting technology is creating Quantum dots using Graphene extracted from Graphite, one af the allotropes of carbon being the other one. Graphene, which is a single layer of carbon atoms arranged in a two-dimensional honeycomb lattice, whose name is derived from "Graphite" with the suffix "ene" to emphasize the fact that it is a allotrope of carbon with numerous double bonds. These quantum dots are tiny prisons for electrons confined to certain orbits and exhibit atom-like properties.
 
-![Graphite nanoparticles](images/Graphite%20Nanoparticles.png)
+![Graphite nanoparticles](/assets/Graphite%20Nanoparticles.png)
 
-![approches of nanoparticles](images/approches%20of%20nanoparticles.png)
+![approches of nanoparticles](/assets/approches%20of%20nanoparticles.png)
 
 However, the symmetry of the material is broken by the edges of the flake as they are not perfectly smooth, which results in reduction of the special four-fold multiplicity of states in graphene to the conventional two-fold one. In order to avoid such symmetry loss, one could look for clever combinations of electrical and magnetic fields to trap and confine the electrons from the surface orbital of the graphene to that particular region, in this way a tiny region is created within the graphene surface, in which low energy electrons can be trapped, wherein the electrons are forced into tiny circular orbits by applied magnetic field.
 
@@ -66,7 +66,7 @@ b. The controlled barrier atom
 
 c. The two-probe atom
 
-![electrons trapped](/images/trpped%20electrons.png)
+![electrons trapped](//assets/trpped%20electrons.png)
 Insert shows potential seen by the trapped electrons as a functions of positions.
 
 In all these three methods, electrons are confined to a smaller region by employing the material boundaries, in particular surrounding

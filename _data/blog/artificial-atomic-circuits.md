@@ -22,13 +22,13 @@ In the case of atomic circuits, each change in data, however small, is vital to 
 
 In fact, instead of the expected repelling forces among negatively charged electrons that repel each other, an effective, attractivé force between the electrons assists in conducting the electricity. This is due to the Coulomb repulsion being weakened by the many conducting electrons as they shield each other. At the same nite the lattice vibrations arb andestalemare of the conditions, the attraction wins. The attractive interaction between the electrons makes them bond together in pairs to form Cooper pairs.
 
-![](images/cooper%20pairs.png)
+![](/assets/cooper%20pairs.png)
 
 The Cooper pairs behave differently from the original electrons described by the laws of Quantum Physics. While the electrons bump into the crystal lattice, the Cooper pairs do not scatter into individual electrons as the two electrons of the Cooper pair are not spatially close to each other. Instead, they scatter as a pair on encounter with a given defect or lattice vibration of the crystal. Quantum Physics infers that minimum energy needs to be spent in breaking a Cooper pair. As long as this energy is not available, they cannot scatter. Further, Cooper pairs of electrons do not experience any energy loss while still transferring charge from point to point, thus leading to zero electrical resistance.
 
 The hike in the temperature of the crystal is one of the means to supply random energy in the degrees of freedom of a system, which assists in overcoming the energy of the Cooper pair bond, also called the superconducting gap. The electrical resistance will come back whenever the Cooper pair breaks to give their constituent electrons. Hence, there exists threshold temperature superconductivity for any given superconducting material.
 
-![](images/inslator.png)
+![](/assets/inslator.png)
 
 ## **Superconducting Qubit**
 
@@ -60,7 +60,7 @@ Similarly, in quantum physics, the energy of an atomic system is defined as the 
 
 Using the above Hamiltonian formalism, one can show similarities between the harmonic oscillation among quantum states and the LC oscillations, wherein the oscillations occur among the various charge and discharge states of the capacitor contained in the LC circuit. Therefore, the circuit could mimic the Rabi oscillations as shown below in the diagram.
 
-![flux](images/flux.png)
+![flux](/assets/flux.png)
 
 As one can see, the possible Rabi oscillations among the various energy states realized using the LC circuit could be controlled by some external voltage V(t) obtained from a microwave source. However, as equal energy separation exists among the LC circuit states, this LC circuit-based superposition cannot be contained between any specific pair states.
 
@@ -68,7 +68,7 @@ Even the room temperature is enough to drive the system out of the specific supe
 
 To overcome this problem, one could resort to a solution in the form of Josephson junction invented by a British theoretical Physicist by the name Brian David Josephson during his doctoral studies. Josephson junction is constructed by sandwiching a thin layer of insulators between two superconductors, and this novel idea led to the Nobel prize in 1973.
 
-![superconducting](images/superconducting.png)
+![superconducting](/assets/superconducting.png)
 
 In an LC circuit, we know that the inductor(L) involves a linear relation between magnetic flux (Φ) and the current as I = Φ/L. The total energy in terms of the Hamiltonian operator (^H) of the LC circuit would be the sum of energy stored in the capacitor and the inductor in the form of charge accumulation and magnetic field, respectively:
 
@@ -76,17 +76,17 @@ In an LC circuit, we know that the inductor(L) involves a linear relation betwee
 
 The terms are similar to classical harmonic oscillator's potential and kinetic energies. Various possible energy states of the system would be represented by the ladder steps that exist within the parabolic potential dictated by the second term, similar to the potential energy of the classical oscillator. As long as the current is a linear function of flux, the possible energy states are placed equally in the parabolic potential. This is the reason for the same level of harmonic oscillation, which results in equal spacing between he resulting nergy levels. On the ther hand, the Joephson junction, which acts as an inductor, gives the current and flux relationship in a non-linear manner, as shown below.
 
-![Joseph junction](images/josephson%20juction.png)
+![Joseph junction](/assets/josephson%20juction.png)
 
 The inclusion of Josephson Junction alters the nature of potential energy from a simple parabolic to a cosine function in magnetic flux (Φ). Once the potential curve gets converted into a cosine function, all the equally spaced energy levels extended to infinity earlier get squeezed to a much smaller vertical domain, leading to the unequal spacing between the energy levels, replicating atomic levels to form an artificial atom which is shown below in the diagram.
 
-![flux2](images/flux2.png)
+![flux2](/assets/flux2.png)
 
 Finally, we have arrived at a circuit that replicates an atom and is being used as a qubit. led to the development of a 'Transmon' Further advancements in the jiG circuit "with losephsc junction superconducting charge qubit designed to have reduced sensitivity to charge noise. The Transmon was developed by Robert J. Schoelkopf, Michel Devoret, Steven M. Girvin and their colleagues at Yale University in 2007. Its name is an abbreviation of the term, **transmission line shunted plasma oscillation qubit**; one consists of a Cooper-pair box 'where the two superconductors are also capacitively shunted to decrease the sensitivity to charge noise while maintaining a sufficient anharmonicity for selective qubit control'.
 
 ## **Superconducting transmon qubits**
 
-![Superconducting transmon qubits](images/Superconducting%20transmon%20qubits.png)
+![Superconducting transmon qubits](/assets/Superconducting%20transmon%20qubits.png)
 
 The Transmon achieves its reduced sensitivity to charge noise by significantly increasing the ratio of the Josephson energy to the charging energy. This is accomplished by using a large shunting capacitor with more surface area of the capacitor plates merged two comb structures. The result is energy level Placings that are approximately independent of offset charge Planar on-chip transmon qubits have T1 coherence times ~ 30us to 40 us. By replacing the superconducting transmission line cavity with a three-dimensional superconducting cavity, recent work on transmon qubits has shown significant improvement T1 times, as long as 95us.
 
@@ -102,13 +102,13 @@ In classical computers, the transistors are either being operated through curren
 
 The diagram below is the realization of a single qubit in 1D.
 
-![Circuit QED](images/circuit%20QED.png)
+![Circuit QED](/assets/circuit%20QED.png)
 
 Here, one can see the cavity through which the microwave could travel and interact with the Transmon to give a particular output as required. Now for various qubits to interact with each other, one can scale up this qubit structure and form a multi-qubit structure by linking cavities of various transmons (i.e., Quantum Bus) as shown below:
 
-![scaling up](images/scaling%20up.png)
+![scaling up](/assets/scaling%20up.png)
 
-![Multi-qubit architecture](images/Multi-qubit%20architecture.png)
+![Multi-qubit architecture](/assets/Multi-qubit%20architecture.png)
 
 As shown in the above figure, we can also realize the transmon circuit multi-qubit architecture in a classical manner.
 
