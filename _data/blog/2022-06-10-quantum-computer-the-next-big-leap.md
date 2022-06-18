@@ -27,3 +27,26 @@ Apart from computational speed-ups, other applications of quantum computers acti
 1. Quantum Sensing and Metrology, which leverage the extreme sensitivity of qubits to the environment to realize sensing beyond the classical shot-noise limit.
 
 1. Quantum Networks and Communications, which may lead to revolutionary ways of sharing information.
+
+
+
+## **Opportunities in Quantum Computing**
+
+Since 2015, the interest in quantum computing across the globe has grown significantly: The worldwide investment has now gone up to 2,000 million Euros. The most considerable increase was seen in China, which not only encompasses quantum computing but includes quantum information systems as well.
+
+India has provided funds of approximately 80 crores to achieve the technical capacity to build quantum computers and communication systems on par with the best in the world. India is realizing that Quantum computing provides an excellent research opportunity in and out of the country. ITTs, ISERs, IISes are providing research opportunities, and many faculty members in such institutes are working in the field of Quantum Computation. Various foreign institutes provide ample opportunity to perceive rescarch in this field.
+
+![Classical bit and Qubit](https://www.austinchronicle.com/binary/085f/screens_feature2.jpg)
+
+Job opportunities in this field are not very distinctively defined. However, it is increasing as ISRO and DRDO are keen on making a Quantum Satellitc, having achieved a breakthrough in Quantum Communication. There have been many start-ups in Quantum Computing, such as Multiverse Computing, Riverlanc, and Q-CTRL. to name a few.
+
+## **References**
+Quantum Computation and Quantum Information by Isaac Chung and Michael Nielsen
+
+![Quantum Computation and Quantum Information by Isaac Chung and Michael Nielsen](https://images-na.ssl-images-amazon.com/images/I/41gXTXxEV6L.jpg)
+
+
+Classical and Ouantum Information Theory: An Introduction for the Telecom Scientist: by Desurvire F.
+
+![Classical and Ouantum Information Theory: An Introduction
+for the Telecom Scientist: by Desurvire F.](https://images-na.ssl-images-amazon.com/images/I/51H0jht-5nL._SX348_BO1,204,203,200_.jpg)
