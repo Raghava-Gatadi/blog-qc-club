@@ -3,6 +3,7 @@ template: BlogPost
 path: /quantum-computer-the-next-big-leap
 date: 2022-06-10T19:52:41.177Z
 title: 'Quantum Computer: The Next Big Leap'
+thumbnail: ''
 ---
 # Quantum Computer 
 ### __The Next Big Leap__

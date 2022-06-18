@@ -3,6 +3,7 @@ template: BlogPost
 path: /artificial-atomic-circuits
 date: 2022-06-10T19:52:41.177Z
 title: 'Artificial Atomic Circuits'
+thumbnail: ''
 ---
 # **ARTIFICIAL ATOMIC CIRCUITS**
 
