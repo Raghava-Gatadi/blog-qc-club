@@ -2,9 +2,9 @@
 template: BlogPost
 path: /robot-of-atoms
 date: 2022-06-10T19:52:41.177Z
-title: 'Robot Of Atoms'
-thumbnail: ''
+title: Robot Of Atoms
 metaDescription: ''
+thumbnail: /assets/Imagefour.jpeg
 ---
 # **ROBOT OF ATOMS**
 
