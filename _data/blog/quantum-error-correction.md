@@ -2,9 +2,9 @@
 template: BlogPost
 path: /quantum-error-correction
 date: 2022-06-10T19:52:41.177Z
-title: 'Quantum Error Correction'
-thumbnail: ''
+title: Quantum Error Correction
 metaDescription: ''
+thumbnail: /assets/imageFive.png
 ---
 # **Quantum Error Correction**
 
